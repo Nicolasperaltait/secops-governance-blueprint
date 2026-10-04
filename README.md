@@ -2,12 +2,14 @@
 
 > Seguridad operada como en una empresa, sobre una infraestructura propia que no se apaga: SIEM, deteccion, endurecimiento medido y controles que se prueban haciendolos fallar.
 
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge)
-![auditd](https://img.shields.io/badge/auditd-7_hosts-374151?style=for-the-badge&logo=linux&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-tailnet_lock-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-deteccion_por_metrica-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-SOC-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Anexo_A_mapeado-1E3A8A?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/SecOps-B91C1C?style=for-the-badge&logo=wazuh&logoColor=white" alt="SecOps" />
+  <img src="https://img.shields.io/badge/ISO/IEC_27001%3A2022-1E3A8A?style=for-the-badge" alt="ISO/IEC 27001:2022" />
+  <img src="https://img.shields.io/badge/SIEM_Wazuh-1F2937?style=for-the-badge&logo=wazuh&logoColor=white" alt="SIEM Wazuh" />
+  <img src="https://img.shields.io/badge/Governance-0F766E?style=for-the-badge" alt="Governance" />
+  <img src="https://img.shields.io/badge/Registro_de_riesgos-242424?style=for-the-badge" alt="Registro de riesgos" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
 
 Este repositorio es la **capa de seguridad** de una infraestructura productiva
 personal: chica en escala, completa en piezas, encendida 24/7 sobre un
