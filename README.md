@@ -3,12 +3,12 @@
 > Seguridad operada como en una empresa, sobre una infraestructura propia que no se apaga: SIEM, deteccion, endurecimiento medido y controles que se prueban haciendolos fallar.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SecOps-B91C1C?style=for-the-badge&logo=wazuh&logoColor=white" alt="SecOps" />
-  <img src="https://img.shields.io/badge/ISO/IEC_27001%3A2022-1E3A8A?style=for-the-badge" alt="ISO/IEC 27001:2022" />
-  <img src="https://img.shields.io/badge/SIEM_Wazuh-1F2937?style=for-the-badge&logo=wazuh&logoColor=white" alt="SIEM Wazuh" />
-  <img src="https://img.shields.io/badge/Governance-0F766E?style=for-the-badge" alt="Governance" />
-  <img src="https://img.shields.io/badge/Registro_de_riesgos-242424?style=for-the-badge" alt="Registro de riesgos" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/SecOps-DC2626?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxYTUgNSAwIDAgMC01IDV2NEg1djEzaDE0VjEwaC0yVjZhNSA1IDAgMCAwLTUtNXptLTMgOVY2YTMgMyAwIDAgMSA2IDB2NHoiLz48L3N2Zz4%3D&logoColor=white" alt="SecOps" />
+  <img src="https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-1D4ED8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnptOCAxdjVoNU04IDEyaDEwdjEuNUg4em0wIDRoMTB2MS41SDh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="ISO/IEC 27001:2022" />
+  <img src="https://img.shields.io/badge/SIEM_Wazuh-BE123C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxIDMgNXY2YzAgNS42IDMuOCAxMC43IDkgMTIgNS4yLTEuMyA5LTYuNCA5LTEyVjV6Ii8%2BPC9zdmc%2B&logoColor=white" alt="SIEM Wazuh" />
+  <img src="https://img.shields.io/badge/Governance-059669?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnptOCAxdjVoNU04IDEyaDEwdjEuNUg4em0wIDRoMTB2MS41SDh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Governance" />
+  <img src="https://img.shields.io/badge/Registro_de_riesgos-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxIDMgNXY2YzAgNS42IDMuOCAxMC43IDkgMTIgNS4yLTEuMyA5LTYuNCA5LTEyVjV6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Registro de riesgos" />
+  <img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 Este repositorio es la **capa de seguridad** de una infraestructura productiva
