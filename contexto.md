@@ -4,8 +4,9 @@ Ficha de lectura rapida: que es, por que existe y que muestra.
 
 ## 1. Que es
 
-La capa de seguridad de una infraestructura productiva personal: SIEM (Wazuh),
-deteccion, endurecimiento medido, control de acceso y respuesta a incidentes.
+La operacion y el gobierno de seguridad de una infraestructura productiva
+personal: SIEM (Wazuh), deteccion, endurecimiento medido, registro de riesgos y
+mapeo a ISO/IEC 27001:2022.
 
 ## 2. Por que existe
 
@@ -26,7 +27,7 @@ infraestructura productiva -chica, pero con todas sus piezas y funcionando
 |---|---|
 | Formato | Markdown, diagramas Mermaid e imagenes redactadas |
 | Casos de estudio | 1 propio y 3 relacionados en la serie |
-| Perfil al que apunta | SecOps, SOC, seguridad de infraestructura |
+| Perfil al que apunta | SecOps, SOC, seguridad de infraestructura, GRC e ISO 27001 |
 | Estado | En revision antes de publicar |
 
 Ultima actualizacion: 2026-10-04 (creacion).

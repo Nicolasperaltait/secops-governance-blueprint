@@ -7,6 +7,7 @@
 ![Tailscale](https://img.shields.io/badge/Tailscale-tailnet_lock-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-deteccion_por_metrica-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-SOC-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Anexo_A_mapeado-1E3A8A?style=for-the-badge)
 
 Este repositorio es la **capa de seguridad** de una infraestructura productiva
 personal: chica en escala, completa en piezas, encendida 24/7 sobre un
@@ -27,6 +28,22 @@ publica reglas, umbrales exactos, configuraciones ni brechas abiertas.
 | Agentes del SIEM activos | **8**, cero desconectados |
 | Intentos no autorizados frenados por la politica de acceso en un solo incidente | **13.017** |
 | Exporters y sondas monitoreados, con alerta solo ante fallas | **13** y **25** |
+| Controles del Anexo A de ISO 27001 implementados con evidencia | **19 de 24** |
+| Riesgos tratados y registrados, con su evaluacion corregida | **10** |
+
+## Mapeado a ISO/IEC 27001:2022
+
+La operacion esta mapeada al **Anexo A de ISO/IEC 27001:2022**: **24 controles**, **19 implementados con evidencia** y 5 parciales con direccion definida.
+
+| Area | Controles destacados |
+|---|---|
+| Acceso e identidad | 5.15 control de acceso, 5.18 derechos de acceso, 8.2 acceso privilegiado, 8.5 autenticacion segura |
+| Deteccion y registro | 8.15 registro de eventos, 8.16 monitoreo, 8.7 proteccion contra malware |
+| Red | 8.20 seguridad de redes, 8.22 segregacion, 8.23 filtrado web |
+| Continuidad | 8.13 copias de seguridad, 5.30 preparacion para la continuidad |
+| Gestion | 5.24 incidentes, 8.32 gestion de cambios, 8.9 configuracion |
+
+Detalle control por control: [Mapeo ISO 27001](docs/02-mapeo-iso-27001.md). Riesgos tratados: [Registro de riesgos](docs/03-registro-de-riesgos.md).
 
 ## En vivo
 
@@ -57,6 +74,8 @@ _Capturas reales del entorno, con nombres, direcciones, usuarios y versiones ree
 
 - [Ficha rapida para quien evalua](contexto.md)
 - [Postura SecOps: capas, controles y lo que se decidio NO hacer](docs/01-postura-secops.md)
+- [Mapeo ISO/IEC 27001:2022, Anexo A](docs/02-mapeo-iso-27001.md)
+- [Registro de riesgos](docs/03-registro-de-riesgos.md)
 - [Caso de estudio: el DNS que se llevo internet](docs/casos-de-estudio/01-el-dns-que-se-llevo-internet.md)
 - Casos relacionados en la serie: [13.017 rechazos que nadie vio](https://github.com/Nicolasperaltait/alerts-that-matter/blob/main/docs/casos-de-estudio/02-trece-mil-rechazos-invisibles.md), [controles que mentian](https://github.com/Nicolasperaltait/alerts-that-matter/blob/main/docs/casos-de-estudio/01-cuando-un-control-no-mide-lo-que-dice-medir.md), [agentes de IA con minimo privilegio](https://github.com/Nicolasperaltait/zero-trust-remote-access/blob/main/docs/casos-de-estudio/01-acceso-de-agentes-de-ia-y-minimo-privilegio.md)
 
