@@ -1,4 +1,4 @@
-# SecOps in Production
+# SecOps Governance Blueprint
 
 > Seguridad operada como en una empresa, sobre una infraestructura propia que no se apaga: SIEM, deteccion, endurecimiento medido y controles que se prueban haciendolos fallar.
 
@@ -71,7 +71,7 @@ en piezas, encendida 24/7. Cada repo de la serie se lee solo; la portada los une
 - [Alerts That Matter](https://github.com/Nicolasperaltait/alerts-that-matter)
 - [Backups That Don't Lie](https://github.com/Nicolasperaltait/backups-that-dont-lie)
 - [Hypervisor as Control Plane](https://github.com/Nicolasperaltait/hypervisor-as-control-plane)
-- [SecOps in Production](https://github.com/Nicolasperaltait/secops-in-production) (este repo)
+- [SecOps Governance Blueprint](https://github.com/Nicolasperaltait/secops-governance-blueprint) (este repo)
 
 ## Licencia
 

@@ -1,4 +1,4 @@
-# Contexto - secops-in-production
+# Contexto - secops-governance-blueprint
 
 Ficha de lectura rapida: que es, por que existe y que muestra.
 
